@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\test\Documents\GitHub\PluginTemplate\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\DeviceNameResolver\DeviceNameResolver.h">
+      <Filter>pluginsdk\DeviceNameResolver</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\TitanEngine\TitanEngine.h">
+      <Filter>pluginsdk\TitanEngine</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\XEDParse\XEDParse.h">
+      <Filter>pluginsdk\XEDParse</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_dbgfunctions.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_plugin_types.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_plugins.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi_argument.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi_assembler.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi_bookmark.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi_comment.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi_debug.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi_flag.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi_function.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi_gui.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi_label.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi_memory.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi_misc.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi_module.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi_pattern.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi_register.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi_stack.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\_scriptapi_symbol.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\bridgegraph.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\bridgelist.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\bridgemain.h">
+      <Filter>pluginsdk</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\dbghelp\dbghelp.h">
+      <Filter>pluginsdk\dbghelp</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\jansson\jansson.h">
+      <Filter>pluginsdk\jansson</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\jansson\jansson_config.h">
+      <Filter>pluginsdk\jansson</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\jansson\jansson_x64dbg.h">
+      <Filter>pluginsdk\jansson</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\lz4\lz4.h">
+      <Filter>pluginsdk\lz4</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\lz4\lz4file.h">
+      <Filter>pluginsdk\lz4</Filter>
+    </None>
+    <None Include="C:\Users\test\Documents\GitHub\PluginTemplate\build64\_deps\x64dbg-src\pluginsdk\lz4\lz4hc.h">
+      <Filter>pluginsdk\lz4</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="pluginsdk">
+      <UniqueIdentifier>{A8DF7A14-C390-3C54-A4A0-3C6EA9F795E0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pluginsdk\DeviceNameResolver">
+      <UniqueIdentifier>{FB0C57C7-6722-3BF7-A02F-B30016445681}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pluginsdk\TitanEngine">
+      <UniqueIdentifier>{BAE79D0C-6CF0-3CAA-86EA-F5AAF148D8B0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pluginsdk\XEDParse">
+      <UniqueIdentifier>{543DE369-075B-34FC-AFF5-EEE622634F7C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pluginsdk\dbghelp">
+      <UniqueIdentifier>{4A8A60C5-C08F-35A1-A2EA-6F84A89344EA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pluginsdk\jansson">
+      <UniqueIdentifier>{4F0995A0-968F-3D8F-AE42-A45CD4755C2A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="pluginsdk\lz4">
+      <UniqueIdentifier>{84161F73-FFA4-3D9F-87C8-3C4AF351D180}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
