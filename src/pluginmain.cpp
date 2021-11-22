@@ -14,12 +14,11 @@ PLUG_EXPORT bool pluginit(PLUG_INITSTRUCT* initStruct)
     initStruct->sdkVersion = PLUG_SDKVERSION;
     strncpy_s(initStruct->pluginName, PLUGIN_NAME, _TRUNCATE);
     pluginHandle = initStruct->pluginHandle;
-    return pluginInit(initStruct);
+    return true;
 }
 
 PLUG_EXPORT bool plugstop()
 {
-    pluginStop();
     return true;
 }
 
@@ -30,5 +29,7 @@ PLUG_EXPORT void plugsetup(PLUG_SETUPSTRUCT* setupStruct)
     hMenuDisasm = setupStruct->hMenuDisasm;
     hMenuDump = setupStruct->hMenuDump;
     hMenuStack = setupStruct->hMenuStack;
-    pluginSetup();
+
+
+    //int ret = _plugin_menuadd(hMenu, "_plugin_menuadd 2nd arg");
 }
